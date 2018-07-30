@@ -20,7 +20,8 @@
   "homepage": "https://github.com/synergytaki/simple-react-es6-app#readme",
   "dependencies": {
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "simple-react-es6": "^1.0.3"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
